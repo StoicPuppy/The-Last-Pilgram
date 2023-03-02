@@ -19,16 +19,16 @@ The Last Pilgram is a Third person singleplayer RPG made using the unity engine.
 
 ------------------------------------------------------------------------------------------------------------
 
-Use the sacred pillars to teleport back to the church to recover your strength and upgrade your character
+## **Use the sacred pillars to teleport back to the church to recover your strength and upgrade your character**
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY5NmM4OWQ1ZDY4ZjNkZjhiNmVmZmQ5MjQxNjQxNTJjNDBhMWUzNyZjdD1n/XRWcMI0gQvAm1VgCtc/giphy.gif" height="100%" width="100%" alt="Teleportation"/>
 </br>
 
-  The Upgrade shop allows the player to spend the money they collect on upgrades that will help empower their character
+ ## **The Upgrade shop allows the player to spend the money they collect on upgrades that will help empower their character**
 
 ![image](https://user-images.githubusercontent.com/97700556/222506010-dbd3e3db-5608-4db8-8d5a-7d56aae37346.png)
 
-  Quest Log that updates everytime the player accepts a new quest, gathers the required quest items, and completes a quest
+ ## **Quest Log that updates everytime the player accepts a new quest, gathers the required quest items, and completes a quest**
 
 ![image](https://user-images.githubusercontent.com/97700556/222506530-d0ffe719-c2dd-4c1c-846f-9743a4a7f473.png)
 
