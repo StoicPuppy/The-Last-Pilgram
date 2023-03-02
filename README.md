@@ -19,6 +19,9 @@ The Last Pilgram is a Third person singleplayer RPG made using the unity engine.
 
 
 
+
+Use the sacred pillars to teleport back to the church to recover your strength and upgrade your character
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY5NmM4OWQ1ZDY4ZjNkZjhiNmVmZmQ5MjQxNjQxNTJjNDBhMWUzNyZjdD1n/XRWcMI0gQvAm1VgCtc/giphy.gif" height="100%" width="100%" alt="Teleportation"/>
 </br>
 
