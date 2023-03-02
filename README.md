@@ -19,6 +19,8 @@ The Last Pilgram is a Third person singleplayer RPG made using the unity engine.
 
 
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NkZmFhNTYwYjQ0ZmNiOGNiOWI2NjVkNGJjZDU3ZjRmZTk0OGYzMyZjdD1n/9o6WXkFQN8yVcRMJGv/giphy.gif" height="100%" width="100%" alt="Fruit Collect"/>
+</br>
 
 
 
