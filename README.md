@@ -29,7 +29,6 @@ Use the sacred pillars to teleport back to the church to recover your strength a
 
 
 
-![image](https://user-images.githubusercontent.com/97700556/222508108-478b5d51-398f-4d3c-9185-ec309ef20308.png)
 
 
 
@@ -39,3 +38,10 @@ Use the sacred pillars to teleport back to the church to recover your strength a
 
 
 ![image](https://user-images.githubusercontent.com/97700556/222506530-d0ffe719-c2dd-4c1c-846f-9743a4a7f473.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/97700556/222508108-478b5d51-398f-4d3c-9185-ec309ef20308.png)
+
