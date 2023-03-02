@@ -29,7 +29,7 @@ Use the sacred pillars to teleport back to the church to recover your strength a
 
 
 
-
+The Upgrade shop allows the player to spend the money they collect on upgrades that will help empower their character
 
 
 
